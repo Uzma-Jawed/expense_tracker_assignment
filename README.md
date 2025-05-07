@@ -1,2 +1,2 @@
-# octo-pythonista
-"Python + AI experiments, served with octocat enthusiasm! Contributions welcome."
+# python 
+expense tracker and financial health checker
