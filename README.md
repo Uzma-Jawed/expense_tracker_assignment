@@ -3,9 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)  
-[![Plotly](https://img.shields.io/badge/Plotly-Express-lightblue?logo=plotly)](https://plotly.com/python/plotly-express/)  
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/uzmajawed/expense-tracker/pulls)  
-[![GitHub Stars](https://img.shields.io/github/stars/uzmajawed/expense-tracker?style=social)](https://github.com/uzmajawed/expense-tracker/stargazers)  
+[![Plotly](https://img.shields.io/badge/Plotly-Express-lightblue?logo=plotly)](https://plotly.com/python/plotly-express/) 
 
 ---
 
@@ -22,8 +20,6 @@ Track your **essentials**, **wants**, and automatically calculate **savings**. V
 
 📸 **App Preview**:  
 ![App Screenshot](expTrack.png)
-
----
 
 ### ✨ Features  
 
@@ -90,5 +86,6 @@ streamlit run app.py
 ```bash
 python expense_tracker_project.ipynb
 ```
+
 
 ---
